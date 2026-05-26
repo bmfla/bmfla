@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bmfla
+- 👋 Hi, I’m Brian CEO/Founder of Creatorland.com with 10+ yrs building products and scaling companies in the creator economy
 - 👀 I’m interested in creator economy, building Creatorland the professional networking layer of the creator economy, disrupting rent-seeking SaaS dashboards in the content creator space
 
 Recently shippped

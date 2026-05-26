@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bmfla
-- 👀 I’m interested in creator economy, web3, disrupting rent-seeking SaaS dashboards in the content creator space
+- 👀 I’m interested in creator economy, building Creatorland the professional networking layer of the creator economy, disrupting rent-seeking SaaS dashboards in the content creator space
 
 
 

@@ -5,6 +5,7 @@ Recently shippped
 - Comprehensive job suite for Creatorland members (talent.creatorland.com)
 - AI Matchmaking for networking between Creatorland members based on goals and interests (supercharge.creatorland.com)
 - Working on: CreatorlandMCP
+- Sanity powered blog suite connected to tryres.ai for enhancing our AI search recommendations
 
 
 <!---
